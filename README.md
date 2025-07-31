@@ -1,4 +1,16 @@
+## COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SYED WASEEM ROSHAN
+
+INTERN ID: CT06DH1678
+
+DOMAIN: Full Stack Web Development
+
+DURATION: 6 WEEEKS
+
+MENTOR:NEELA SANTOSH
 # Real-Time Collaborative Document Editor
+
 
 A modern, feature-rich collaborative document editor built with React, TypeScript, and Supabase. This application enables multiple users to edit documents simultaneously with real-time synchronization, rich text formatting, and seamless collaboration features.
 
