@@ -239,5 +239,7 @@ If you encounter any issues or have questions:
 - [ ] Integration with cloud storage
 
 ---
+## OUTPUT:
+<img width="1855" height="986" alt="Image" src="https://github.com/user-attachments/assets/ad7c6192-fec7-4565-8951-3829e4572623" />
 
 **Built with ❤️ using React, TypeScript, and Supabase**
